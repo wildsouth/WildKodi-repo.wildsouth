@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<tittle>Cocina 1</tittle>
+<tittle>Pasaporte Pampliega</tittle>
 <thumnail></thumnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>
+	https://raw.githubusercontent.com/wildsouth/WildWizard/master/item1.xml
+</externallink>
 </item>
 
 <item>
@@ -13,5 +15,7 @@
 <thumnail></thumnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>
+	https://raw.githubusercontent.com/wildsouth/WildWizard/master/item2.xml
+</externallink>
 </item>
